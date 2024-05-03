@@ -4,3 +4,7 @@ pillow
 nltk
 PyDictionary
 deep-translator
+pydantic
+sqlalchemy
+streamlit_option_menu
+pytube

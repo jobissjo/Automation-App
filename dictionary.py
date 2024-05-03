@@ -7,7 +7,7 @@ stemmer = SnowballStemmer('english')
 dictionary=PyDictionary()
 
 def english_dict():
-    st.title("Dictionar")
+    st.title("Dictionary")
     
     entered_url = st.text_input("Enter the word")
     if entered_url:
