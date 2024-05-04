@@ -14,8 +14,8 @@ from streamlit_option_menu import option_menu
 
 nltk.download('stopwords')
 
-
-
+# sudo apt-get update
+# sudo apt-get install libleptonica-dev tesseract-ocr tesseract-ocr-dev libtesseract-dev python3-pil tesseract-ocr-eng tesseract-ocr-script-latn
 options = ["Extract Text from Image",   "Tamil Translator","Dictionary",
           "Youtube Videos", "Youtube Audios", "Text to Audio" ]
 

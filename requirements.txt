@@ -8,3 +8,4 @@ pydantic
 sqlalchemy
 streamlit_option_menu
 pytube
+gTTS
