@@ -1,0 +1,15 @@
+[project]
+name = "automation-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "googletrans>=4.0.2",
+    "gtts>=2.5.4",
+    "nltk>=3.9.1",
+    "pytesseract>=0.3.13",
+    "pytube>=15.0.0",
+    "streamlit>=1.42.0",
+    "streamlit-option-menu>=0.4.0",
+]
